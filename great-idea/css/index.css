@@ -274,7 +274,8 @@ img.middle-img {
 
 .mid-box h2 {
 	font-family: 'Share Tech Mono';
-	font-size: 30px; 
+	font-size: 30px;
+	text-align: center;  
 }
 
 .mid-box p {
@@ -334,6 +335,11 @@ contact {
 	line-height: 2;
 }
 
+contact h3 {
+	font-family: 'Share Tech Mono';
+	font-size: 30px; 
+}
+
 #contact {
 	color: rgb(145, 122, 82);
 }
@@ -349,10 +355,11 @@ footer {
 	box-sizing: border-box;
 	padding: 50px;
 	text-align: center;
-	color: #333333;
-	font-family: 'Noto Sans KR', sans-serif;
-	font-size: 25px;
 	line-height: 2;
+	color: #1c6c64;
+	font-family: 'Share Tech Mono';
+	font-size: 19px;
+	text-transform: uppercase;
 }
 
 
