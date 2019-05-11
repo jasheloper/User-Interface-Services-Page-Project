@@ -95,7 +95,6 @@ nav a:hover {
 
 .logo {
 	padding-left: 20px;
-	box-sizing: border-box;
 }
 
 .home-page {
@@ -365,7 +364,7 @@ footer {
 
 /* Contact .html Page  */
 
-/*
+
 header.contact {
 	border-top: 0px;
 	border-bottom: 0;
@@ -426,5 +425,6 @@ header nav  {
 .contact-methods.phone {
 	background-color: rgb(245, 209, 209); 
 }
-*/
+
+
 
