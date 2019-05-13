@@ -89,7 +89,7 @@ nav {
 
 
 .container nav a {
-	padding: 20px; 
+	padding: 19px; 
 	box-sizing: border-box;
 	text-decoration: none;
 	color: #051414;
@@ -100,7 +100,7 @@ nav a:hover {
 }
 
 #contact {
-	padding: 20px; 
+	padding: 19px; 
 	box-sizing: border-box;
 	text-decoration: none;
 	color: #9f7f6a;
@@ -111,7 +111,8 @@ nav a:hover {
 }
 
 .zelogo {
-	padding: 10px;
+	box-sizing: border-box;
+	padding: 5px;
 }
 
 .fixed-nav {
@@ -125,6 +126,38 @@ nav a:hover {
 
 header {
 	border-bottom: 1px solid black;
+}
+
+.title-text {
+	margin-top: 58px; 
+	width: 300px;
+	height: 300px; 
+	text-align: center; 
+	
+}
+
+.top-container {
+	display: flex; 
+	margin-left: 76px; 
+	box-sizing: border-box;
+	padding-bottom: 10px; 
+}
+.top-container h1 {
+	font-size: 60px;
+	font-family: 'Share Tech Mono', monospace;
+	color: #44acac;
+}
+
+.coding-image {
+	margin-top: 20px; 
+	margin-left: 104px; 
+	width: 300px;
+	height: 300px; 
+}
+
+.coding-image img {
+	width: 280px;
+	height: 280px; 
 }
 
 /*
@@ -155,33 +188,6 @@ width: 300px;
 
 
 /* TOP CONTENT */
-
-
-.top-container {
-	display: flex; 
-	margin-left: 76px; 
-	box-sizing: border-box;
-	padding-bottom: 70px; 
-}
-.top-container h1 {
-	font-size: 60px;
-	font-family: 'Share Tech Mono', monospace;
-	color: #44acac;
-}
-
-.title-text {
-	margin-top: 98px; 
-	width: 300px;
-	height: 300px; 
-	text-align: center; 
-	
-}
-.coding-image {
-	margin-top: 20px; 
-	margin-left: 84px; 
-	width: 300px;
-	height: 300px; 
-}
 
 
 
