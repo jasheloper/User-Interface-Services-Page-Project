@@ -483,9 +483,9 @@ header nav  {
 }
 
 .product-top h2 {
+	padding: 10px;
 	font-size: 60px; 
 	text-align: center; 
-	color: rgb(50, 177, 162); 
 }
 
 .product-top img {
