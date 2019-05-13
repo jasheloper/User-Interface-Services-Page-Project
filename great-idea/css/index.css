@@ -64,6 +64,13 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
+p {
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 14px;
+	line-height: 2;
+	color: #333333;
+}
+
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
 
 .container {
@@ -462,4 +469,63 @@ header nav  {
 
 /* Product Page */
 
+.product-top {
+	margin-top: 100px; 
+	padding: 20px; 
+	box-sizing: border-box;
+	background: rgb(13, 102, 102); 
+	border-radius: 50px;
+}
 
+.product-top h2 {
+	font-size: 60px; 
+	text-align: center; 
+	color: rgb(192, 238, 233); 
+}
+
+.product-top img {
+	margin-left: 10px; 
+	width: 800px; 
+	box-sizing: border-box;
+	padding: 20px; 
+	border: 2px solid white; 
+}
+
+.product-top p {
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 14px;
+	line-height: 2;
+	color: #d7ddde;
+}
+
+.products-container {
+	display: flex;
+}
+
+.product-box {
+	width: 460px;
+	padding: 20px; 
+	box-sizing: border-box;
+}
+
+.product-box img {
+	width: 340px;
+	height: 300px; 
+	border: 3px solid rgb(99, 206, 181);
+}
+
+.the-bottom-box {
+	padding: 30px; 
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.the-bottom-box img {
+	padding: 30px; 
+	box-sizing: border-box;
+}
+
+.the-bottom-box h2 {
+	font-size: 40px; 
+	color: rgb(31, 145, 153); 
+}
