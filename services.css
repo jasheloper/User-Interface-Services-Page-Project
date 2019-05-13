@@ -82,8 +82,7 @@ nav {
 
 
 .container nav a {
-	margin: 2px; 
-	padding: 20px; 
+	padding: 25px; 
 	box-sizing: border-box;
 	text-decoration: none;
 	color: #051414;
@@ -93,9 +92,6 @@ nav a:hover {
 	color: white; 
 }
 
-.logo {
-	padding-left: 20px;
-}
 
 .home-page {
 	position: fixed;
@@ -341,7 +337,7 @@ contact h3 {
 
 #contact {
 	margin: 2px; 
-	padding: 20px; 
+	padding: 17px; 
 	color: rgb(145, 122, 82);
 }
 

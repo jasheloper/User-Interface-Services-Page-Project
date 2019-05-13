@@ -89,7 +89,7 @@ nav {
 
 
 .container nav a {
-	padding: 17px; 
+	padding: 25px; 
 	box-sizing: border-box;
 	text-decoration: none;
 	color: #051414;
@@ -99,9 +99,6 @@ nav a:hover {
 	color: white; 
 }
 
-.logo {
-	padding-left: 10px;
-}
 
 .home-page {
 	position: fixed;
