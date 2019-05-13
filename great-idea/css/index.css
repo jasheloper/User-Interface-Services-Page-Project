@@ -83,7 +83,8 @@ nav {
 
 
 .container nav a {
-	padding: 30px; 
+	margin: 2px; 
+	padding: 20px; 
 	box-sizing: border-box;
 	text-decoration: none;
 	color: #051414;
@@ -340,7 +341,8 @@ contact h3 {
 }
 
 #contact {
-	padding: 30px; 
+	margin: 2px; 
+	padding: 20px; 
 	color: rgb(145, 122, 82);
 }
 
@@ -458,6 +460,6 @@ header nav  {
 }
 
 
-
+/* Product Page */
 
 
