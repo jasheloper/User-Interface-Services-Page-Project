@@ -83,7 +83,7 @@ p {
 nav {
 	justify-content: center;  
 	box-sizing: border-box;
-	padding: 20px;
+	padding: 19px;
 	background-color: #adebeb;
 	border-radius: 20px;
 }
@@ -91,7 +91,7 @@ nav {
 
 .container nav a {
 	margin: 2px; 
-	padding: 20px; 
+	padding: 17px; 
 	box-sizing: border-box;
 	text-decoration: none;
 	color: #051414;
@@ -349,7 +349,7 @@ contact h3 {
 
 #contact {
 	margin: 2px; 
-	padding: 20px; 
+	padding: 17px; 
 	color: rgb(145, 122, 82);
 }
 
@@ -478,14 +478,12 @@ header nav  {
 	margin-top: 100px; 
 	padding: 20px; 
 	box-sizing: border-box;
-	background: rgb(13, 102, 102); 
-	border-radius: 50px;
 }
 
 .product-top h2 {
 	font-size: 60px; 
 	text-align: center; 
-	color: rgb(192, 238, 233); 
+	color: rgb(50, 177, 162); 
 }
 
 .product-top img {
@@ -500,7 +498,7 @@ header nav  {
 	font-family: 'Noto Sans KR', sans-serif;
 	font-size: 14px;
 	line-height: 2;
-	color: #d7ddde;
+	color: rgb(90, 97, 97);
 }
 
 .products-container {
@@ -511,6 +509,12 @@ header nav  {
 	width: 460px;
 	padding: 20px; 
 	box-sizing: border-box;
+}
+
+.product-box p {
+	box-sizing: border-box;
+	padding: 5px;
+	line-height: 2.7;
 }
 
 .product-box img {
