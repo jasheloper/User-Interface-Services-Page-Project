@@ -115,14 +115,6 @@ nav a:hover {
 	padding: 5px;
 }
 
-.fixed-nav {
-	position: static;
-}
-
-.home-page {
-	position: static;
-}
-
 
 header {
 	border-bottom: 1px solid black;
