@@ -11,10 +11,6 @@
 
 <img src="img/home1.png" alt="Index"> <img src="img/services1.png" alt="Services"> <img src="img/product1.png" alt="Product">
 
-
-<br />
-
-
 # Project Links
 
 <a href="http://jasheletillman.me/User-Interface-Services-Page-Project/" target=_blank>See this project live?</a>  
