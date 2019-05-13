@@ -1,3 +1,31 @@
+# Final Screenshots
+
+Minimal Viable Project Tasks + Stretch Tasks:<br /><br />
+— Created another page based on one of the navigation items in addition to services. 
+
+
+<img src="img/home1.png" alt="Index">
+<img src="img/services1.png" alt="Services">
+<img src="img/product1.png" alt="Product">
+<br /><br />
+
+
+# Project Links
+
+<a href="" target=_blank>See this project live?</a>  
+
+<a href="" target=_blank>Page 1</a>
+
+<a href="" target=_blank>Page 2</a>
+
+<a href="" target=_blank>Page 3</a>
+
+
+# Contact Me
+<a href="https://www.linkedin.com/in/jashelet/" target=_blank>LinkedIn</a> • <a href="https://twitter.com/jasheloper" target=_blank>Twitter</a> • <a href="https://www.instagram.com/jasheloper/" target=_blank>Instagram</a> • <a href="mailto:jftjashele@gmail.com" target=_blank>E-mail</a> 
+<br /><br />
+
+
 # User Interface Project II: Great Idea Web Page With Flexbox
 
 Now that you have experienced building a layout using `inline-block`.  Lets revisit the same HTML structure and refactor our first page with flex box module.  If you didn't finish yesterday's assignment, just start from scratch or use the solution code provided to you.
