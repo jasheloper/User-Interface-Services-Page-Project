@@ -73,17 +73,16 @@ h1, h2, h3, h4, h5 {
 }
 
 nav {
-	display: flex;
 	justify-content: center;  
 	box-sizing: border-box;
-	padding: 9px;
+	padding: 20px;
 	background-color: #adebeb;
 	border-radius: 20px;
 }
 
 
 .container nav a {
-	padding: 27px; 
+	padding: 30px; 
 	box-sizing: border-box;
 	text-decoration: none;
 	color: #051414;
