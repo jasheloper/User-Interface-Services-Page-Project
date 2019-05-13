@@ -1,6 +1,9 @@
-# Final Screenshots
+# Project Details
 
-Completed all Minimal Viable Project Tasks
+<b>Objectives:</b><br />
+ Student should be able to describe and understand that flexbox is a module, demonstrate understanding of flex container properties in flex box and demonstrate understanding of flex item properties in flexbox.
+
+*Completed all Minimal Viable Project Tasks*
 
 <strong>Stretch Tasks:</strong><br />
 — Created another page based on one of the navigation items in addition to services. 
