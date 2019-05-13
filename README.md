@@ -1,6 +1,8 @@
 # Final Screenshots
 
-Minimal Viable Project Tasks + Stretch Tasks:<br /><br />
+Completed all Minimal Viable Project Tasks
+
+<strong>Stretch Tasks:</strong><br />
 — Created another page based on one of the navigation items in addition to services. 
 
 
