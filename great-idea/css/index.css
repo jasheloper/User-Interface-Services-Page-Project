@@ -82,8 +82,8 @@ p {
 
 nav {
 	box-sizing: border-box;
-	padding: 19px;
-	background-color: #adebeb;
+	padding: 15px;
+	/* background-color: #adebeb; */
 	border-radius: 20px;
 }
 
@@ -111,7 +111,7 @@ nav a:hover {
 }
 
 .zelogo {
-	padding: 0;
+	padding: 10px;
 }
 
 .fixed-nav {
@@ -170,14 +170,14 @@ width: 300px;
 }
 
 .title-text {
-	margin-top: 200px; 
+	margin-top: 98px; 
 	width: 300px;
 	height: 300px; 
 	text-align: center; 
 	
 }
 .coding-image {
-	margin-top: 120px; 
+	margin-top: 20px; 
 	margin-left: 84px; 
 	width: 300px;
 	height: 300px; 
@@ -385,7 +385,7 @@ header.contact {
 }
 
 header nav  {
-	position: fixed;
+	position: static;
 }
 
 .page-box {
@@ -420,7 +420,6 @@ header nav  {
 
 .contact-us {
 	display: block; 
-	margin-top: 80px; 
 	padding-bottom: 17px;   
 	width: 100%; 
 	
@@ -475,7 +474,7 @@ header nav  {
 /* Product Page */
 
 .product-top {
-	margin-top: 100px; 
+	margin-top: 4px; 
 	padding: 20px; 
 	box-sizing: border-box;
 }
@@ -487,7 +486,7 @@ header nav  {
 }
 
 .product-top img {
-	margin-left: 10px; 
+	
 	width: 800px; 
 	box-sizing: border-box;
 	padding: 20px; 

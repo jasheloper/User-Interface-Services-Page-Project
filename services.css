@@ -73,10 +73,9 @@ h1, h2, h3, h4, h5 {
 }
 
 nav {
-	justify-content: center;  
 	box-sizing: border-box;
-	padding: 20px;
-	background-color: #adebeb;
+	padding: 15px;
+	/* background-color: #adebeb; */
 	border-radius: 20px;
 }
 
@@ -92,8 +91,6 @@ nav a:hover {
 	color: white; 
 }
 
-
-
 #contact {
 	padding: 20px; 
 	box-sizing: border-box;
@@ -106,7 +103,7 @@ nav a:hover {
 }
 
 .zelogo {
-	padding: 0;
+	padding: 10px;
 }
 
 .fixed-nav {
@@ -457,7 +454,7 @@ header nav  {
 }
 
 .servicesheadlogo {
-	padding: 3px; 
+	padding: 14px; 
 	box-sizing: border-box;
 	width: 850px; 
 }
