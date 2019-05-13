@@ -93,15 +93,14 @@ nav a:hover {
 }
 
 nav {
-	display: inline-block;
-	padding: 9px;
+	padding: 0px;
 	background-color: #adebeb;
 	border-radius: 20px;
 }
 
 nav .logo {
 	display: inline-block;
-	padding-left: 30px; 
+	padding-left: 0px; 
 }
 
 nav .logo a {
@@ -110,7 +109,7 @@ nav .logo a {
 }
 
 .home-page {
-	position: fixed;
+	padding: 1px; 
 }
 
 #contact {
@@ -119,12 +118,6 @@ nav .logo a {
 
 #contact:hover {
 	color: white; 
-}
-
-
-.zelogo {
-	box-sizing: border-box;
-	padding: 5px;
 }
 
 
