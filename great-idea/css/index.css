@@ -58,7 +58,8 @@ html, body {
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: 'Bangers', cursive;
+	font-family: 'Share Tech Mono';
+	font-size: 22px; 
     letter-spacing: 1px;
     margin-bottom: 15px;
 }
@@ -324,7 +325,7 @@ img.middle-img {
 contact {
 	display: block; 
 	box-sizing: border-box;
-	padding-top: 34px;
+	padding-top: 20px;
 	border-top: 1px solid black;
 	text-align: center;
 	color: #333333;
@@ -339,11 +340,16 @@ contact h3 {
 }
 
 #contact {
+	padding: 12px; 
 	color: rgb(145, 122, 82);
 }
 
 #contact:hover {
 	color: white; 
+}
+
+.fixed-nav {
+	position: fixed;
 }
 
 
@@ -370,14 +376,14 @@ header.contact {
 }
 
 header nav  {
-	position: static;
+	position: fixed;
 }
 
 .page-box {
 		display: block;
-		margin: auto;
+		margin: auto; 
 		box-sizing: border-box;
-		width: 500px;
+		width: 300px;
 		padding-top: 29px;
 		padding-bottom: 50px;
 		font-family: 'Noto Sans KR', sans-serif;
@@ -391,6 +397,30 @@ header nav  {
 .page-box.form {
 	padding-top: 50px; 
 	width: 700px;
+}
+
+.page-box.form h3 {
+	font-family: 'Share Tech Mono';
+	font-size: 40px;
+}
+
+#myform h4 {
+	font-family: 'Share Tech Mono';
+	font-size: 25px; 
+}
+
+.contact-us {
+	display: block; 
+	margin-top: 80px; 
+	padding-bottom: 17px;   
+	width: 100%; 
+	
+}
+
+.contact-us h1 {
+	text-align: center; 
+	font-family: 'Share Tech Mono';
+	font-size: 34px; 
 }
 
 .contact-methods {
@@ -409,7 +439,9 @@ header nav  {
 }
 
 .contact-methods h2 {
+	font-family: 'Share Tech Mono';
 	text-align: center;
+	font-size: 22px; 
 }
 
 .contact-methods.forum {
