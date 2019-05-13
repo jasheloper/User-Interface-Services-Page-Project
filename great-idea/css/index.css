@@ -424,14 +424,14 @@ header nav  {
 .contact-us {
 	display: block; 
 	padding-bottom: 17px;   
-	width: 100%; 
+	width: 50%; 
 	
 }
 
 .contact-us h1 {
 	text-align: center; 
 	font-family: 'Share Tech Mono';
-	font-size: 34px; 
+	font-size: 40px; 
 }
 
 .contact-methods-section {
@@ -457,7 +457,7 @@ header nav  {
 .contact-methods h2 {
 	font-family: 'Share Tech Mono';
 	text-align: center;
-	font-size: 22px; 
+	font-size: 27px; 
 }
 
 .contact-methods.forum {
