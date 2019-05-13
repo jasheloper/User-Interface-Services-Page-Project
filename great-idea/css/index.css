@@ -489,10 +489,9 @@ header nav  {
 }
 
 .product-top img {
-	
-	width: 800px; 
+	width: 810px; 
 	box-sizing: border-box;
-	padding: 20px; 
+	padding-bottom: 10px; 
 	border: 2px solid white; 
 }
 
