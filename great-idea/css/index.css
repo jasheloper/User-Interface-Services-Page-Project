@@ -81,7 +81,6 @@ p {
 }
 
 nav {
-	justify-content: center;  
 	box-sizing: border-box;
 	padding: 19px;
 	background-color: #adebeb;
@@ -90,7 +89,6 @@ nav {
 
 
 .container nav a {
-	margin: 2px; 
 	padding: 17px; 
 	box-sizing: border-box;
 	text-decoration: none;
@@ -102,7 +100,7 @@ nav a:hover {
 }
 
 .logo {
-	padding-left: 20px;
+	padding-left: 10px;
 }
 
 .home-page {
@@ -157,7 +155,7 @@ width: 300px;
 }
 
 .title-text {
-	margin-top: 170px; 
+	margin-top: 200px; 
 	width: 300px;
 	height: 300px; 
 	text-align: center; 
@@ -169,6 +167,7 @@ width: 300px;
 	width: 300px;
 	height: 300px; 
 }
+
 
 
 button {
