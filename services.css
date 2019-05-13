@@ -82,7 +82,7 @@ nav {
 
 
 .container nav a {
-	padding: 25px; 
+	padding: 20px; 
 	box-sizing: border-box;
 	text-decoration: none;
 	color: #051414;
@@ -93,8 +93,28 @@ nav a:hover {
 }
 
 
+
+#contact {
+	padding: 20px; 
+	box-sizing: border-box;
+	text-decoration: none;
+	color: #9f7f6a;
+}
+
+#contact:hover {
+	color: white; 
+}
+
+.zelogo {
+	padding: 0;
+}
+
+.fixed-nav {
+	position: static;
+}
+
 .home-page {
-	position: fixed;
+	position: static;
 }
 
 
@@ -335,15 +355,6 @@ contact h3 {
 	font-size: 30px; 
 }
 
-#contact {
-	margin: 2px; 
-	padding: 17px; 
-	color: rgb(145, 122, 82);
-}
-
-#contact:hover {
-	color: white; 
-}
 
 
 /* Footer */
@@ -427,7 +438,7 @@ header nav  {
 /* Services Page */
 
 .services-page-header {
-	margin-top: 100px; 
+	margin-top: 10px; 
 	padding-bottom: 50px; 
 	box-sizing: border-box;
 }
@@ -446,10 +457,9 @@ header nav  {
 }
 
 .servicesheadlogo {
-	padding-top: 14px; 
-	padding-bottom: 27px;
+	padding: 3px; 
 	box-sizing: border-box;
-	width: 810px; 
+	width: 850px; 
 }
 
 
