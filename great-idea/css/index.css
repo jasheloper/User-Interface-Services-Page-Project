@@ -95,6 +95,14 @@ nav {
 	color: #051414;
 }
 
+@media (max-width: 500px) {
+	.container nav a {
+	  padding: 10px; 
+	}
+  }
+
+
+
 nav a:hover {
 	color: white; 
 }
@@ -105,6 +113,13 @@ nav a:hover {
 	text-decoration: none;
 	color: #9f7f6a;
 }
+
+@media (max-width: 500px) {
+	#contact {
+	  padding: 10px; 
+	}
+  }
+
 
 #contact:hover {
 	color: white; 
