@@ -4,9 +4,9 @@ Minimal Viable Project Tasks + Stretch Tasks:<br /><br />
 — Created another page based on one of the navigation items in addition to services. 
 
 
-<img src="img/home1.png" alt="Index">
-<img src="img/services1.png" alt="Services">
-<img src="img/product1.png" alt="Product">
+<img src="img/home1.png" alt="Index"> <img src="img/services1.png" alt="Services"> <img src="img/product1.png" alt="Product">
+
+
 <br /><br />
 
 
