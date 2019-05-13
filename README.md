@@ -6,7 +6,7 @@
 *Completed all Minimal Viable Project Tasks*
 
 <strong>Stretch Tasks:</strong><br />
-— Created another page based on one of the navigation items in addition to services. 
+- Created another page based on one of the navigation items in addition to services. 
 
 
 <img src="img/home1.png" alt="Index"> <img src="img/services1.png" alt="Services"> <img src="img/product1.png" alt="Product">
