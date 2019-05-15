@@ -8,22 +8,14 @@
 <strong>Stretch Tasks:</strong><br />
 - Created another page based on one of the navigation items in addition to services. 
 
+<a href="http://jasheletillman.me/User-Interface-Services-Page-Project/"><img src="screenshots/indexscreen.png" alt="index"></a> <a href="http://jasheletillman.me/User-Interface-Services-Page-Project/contact.html"><img src="screenshots/contactscreen.png" alt="contact page"></a>
 
-<img src="img/home1.png" alt="Index"> <img src="img/services1.png" alt="Services"> <img src="img/product1.png" alt="Product">
-
-# Project Links
-
-<a href="http://jasheletillman.me/User-Interface-Services-Page-Project/" target=_blank>See this project live?</a>  
-
-<a href="http://jasheletillman.me/User-Interface-Services-Page-Project/services.html" target=_blank>Services Page</a>
-
-<a href="http://jasheletillman.me/User-Interface-Services-Page-Project/product.html" target=_blank>Product Page</a>
-
-<a href="http://jasheletillman.me/User-Interface-Services-Page-Project/contact.html" target=_blank>Contact Page</a>
+ <a href="http://jasheletillman.me/User-Interface-Services-Page-Project/product.html"><img src="screenshots/productscreen.png" alt="product page"></a>  <a href="http://jasheletillman.me/User-Interface-Services-Page-Project/services.html"><img src="screenshots/servicesscreen.png" alt="services page"></a> 
+ <br /> <br />
 
 
 # Contact Me
-<a href="https://www.linkedin.com/in/jashelet/" target=_blank>LinkedIn</a> • <a href="https://twitter.com/jasheloper" target=_blank>Twitter</a> • <a href="https://www.instagram.com/jasheloper/" target=_blank>Instagram</a> • <a href="mailto:jftjashele@gmail.com" target=_blank>E-mail</a> 
+<a href="http://jasheletillman.me/" target=_blank>Portfolio</a> • <a href="https://www.linkedin.com/in/jashelet/" target=_blank>LinkedIn</a> • <a href="https://twitter.com/jasheloper" target=_blank>Twitter</a> • <a href="https://www.instagram.com/jasheloper/" target=_blank>Instagram</a> • <a href="mailto:jftjashele@gmail.com" target=_blank>E-mail</a> 
 <br /><br />
 
 
